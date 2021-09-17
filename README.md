@@ -1,3 +1,4 @@
+# Anup Shah
 # Share Average Calculator
 
 
@@ -7,3 +8,5 @@ New features will be extended to add more buys to calculate average.
 
 Live application URL
 https://anupshah2it.github.io/StockAverageCalculator.html
+
+
