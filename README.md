@@ -10,3 +10,5 @@ Live application URL
 https://anupshah2it.github.io/StockAverageCalculator.html
 
 
+# My Profile
+https://anupshah2it.github.io/index.html
